@@ -875,7 +875,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C07816101GUUE</string>
+			<string>C02032405GULNV91H</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
@@ -883,9 +883,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07WL01NJYVX</string>
+			<string>C02D6ZZTJV3Q</string>
 			<key>SystemUUID</key>
-			<string>126BE657-968A-453E-BD17-64A08944F9C6</string>
+			<string>742B7BC0-27FC-492A-8706-DC0556468F28</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
